@@ -62,9 +62,10 @@ body {
 
 .container {
     display: flex;
-    height: 100vh;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+
 }
 
 .card {
@@ -93,7 +94,7 @@ img {
     padding: 16px;
 }
 
-.card__content h2{
+.card__content h1{
     font-size: 22px;
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
